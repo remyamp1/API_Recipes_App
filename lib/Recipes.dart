@@ -28,6 +28,7 @@ const Recipes({required this.recipes});
               
               children: [
                 Center(child: Image.network(recipes.image,width: 350,height: 300,)),
+               
                 SizedBox(height: 50),
                Text("Name:${recipes.name}",style: TextStyle(fontSize: 20,color: Colors.black),),
               SizedBox(height: 15),

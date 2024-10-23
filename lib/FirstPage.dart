@@ -66,7 +66,7 @@ Recipesmodelapi? dataFromAPI;
             width: 2),
             boxShadow: [
               BoxShadow(
-                color: const Color.fromARGB(255, 231, 223, 223),
+                color: const Color.fromARGB(255, 253, 214, 241),
                 blurRadius: 0,
                 spreadRadius: 1,
               )
